@@ -1,2 +1,1 @@
-This is README.md
-this is modify
+In this repository, I will learn Machine Learning Algorithms and Mathematics behind
